@@ -42,3 +42,19 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 * **Text Classification with Football-Scenarios-DFE-832307.csv.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Football-Scenarios-DFE-832307.csv.ipynb)
 * **Text Classification with Natural Language Processing in Python - agreement-sentence-agreement-DFE dataset.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20Natural%20Language%20Processing%20in%20Python%20-%20agreement-sentence-agreement-DFE%20dataset.ipynb)
 * **Text Classification with agreement-sentence-agreement-DFE.csv.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_Natural-Language-Process/blob/master/Text%20Classification%20with%20agreement-sentence-agreement-DFE.csv.ipynb)
+
+
+
+# See also   Machine learning with Python <h1>
+
+*   **Linear Regresion**  [GitHub](https://github.com/pythonuzgit/elmurodov_linearregression)
+*   **Logistic Regresssion** [GitHub](https://github.com/pythonuzgit/elmurodov_logisticRegression)
+*   **k Nearest Neighbors** [GitHub](https://github.com/pythonuzgit/elmurodov_kNearestNeighbors) 
+*   **Support Vector Machine** [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Support%20Vector%20Machine%20with%20Linear%20separable%20dataset.ipynb)
+*    **Naive Bayes** [GitHub](https://github.com/pythonuzgit/samuz/blob/master/Naive%20Bayes%20Classification.ipynb)
+*    **Random Forest** [GitHub](https://github.com/pythonuzgit/elmurodov_RandomForest)
+*   **K-Means** [GitHub](https://github.com/pythonuzgit/samuz/blob/master/K-Means%20Clusters%20with%20ipl.csv.ipynb)
+*   **Gaussian Mixture Model** [GitHub](https://github.com/pythonuzgit/elmurodov_GaussianMixtureModel)    
+*   **Principal Component Alalysis** [GitHub](https://github.com/pythonuzgit/elmurodov_PrincipialComponentAnalysis)
+*   **XGBoost** [GitHub](https://github.com/pythonuzgit/elmurodov_XGBoost)
+*   **Artificial Neural Network** [GitHub](https://github.com/pythonuzgit/elmurodov_ArtificialNeuralNetworks)
