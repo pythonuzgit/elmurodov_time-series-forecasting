@@ -1,5 +1,9 @@
 # Time series forecasting
 
+Time Series Forecasting is the process of using a statistical model to predict future values of a time series based on past results.
+
+A Time Series is defined as a series of data points indexed in time order. The time order can be daily, monthly, or even yearly.
+
 Time series analysis has significant in economics and financial analytics but can be utilized in any field, where understanding trends is important to decision making and reacting to changes in behaviour patterns.
 
 
