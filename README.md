@@ -19,7 +19,7 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 *  **Keras Neural Network for logistic regression with satimage_csv data** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Keras%20Neural%20Network%20for%20logistic%20regression%20with%20satimage_csv%20data.ipynb)
 *  **Multilayer perceptron with abalone dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Multilayer%20perceptron%20with%20abalone%20dataset.ipynb)
 *  **Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
-*  **Neural Network in Keras with phoneme datset.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
+*  **Neural Network in Keras with phoneme datset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
 
 # See also Deep Learning for Natural Language Prosessing (NLP)
